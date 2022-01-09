@@ -10,7 +10,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cloudconfig" target="11" />
       <module name="config" target="11" />
+      <module name="serverconfig (1)" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
